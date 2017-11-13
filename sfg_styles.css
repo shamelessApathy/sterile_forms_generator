@@ -1,0 +1,14 @@
+#test
+{
+	color:red;
+	font-size:40px;
+}
+.sfg-form-holder
+{
+	padding:10px;
+}
+label ,input, button
+{
+	display:block;
+	margin-top:15px;
+}
